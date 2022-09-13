@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Miller
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently attending shepherd university for a batchelors in computer science with a concentration in networking security
+- 🌱 I’m currently attending shepherd university for a batchelors in computer information systems with a concentration in networking security
 - 📫 smille26@rams.shepherd.edu
 
 <!---
